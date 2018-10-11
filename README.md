@@ -32,7 +32,7 @@
 
 3-2
 순서가 있는 리스트(Ordered List)
-1. HTML//코드
+1. HTML
 2. CSS
 3. JavaScript
 
@@ -48,14 +48,14 @@
 2.CSS
 3.JavaScript
 
-1. Frontend//코드
+1. Frontend
     1. HTML
     2. CSS
     3. JavaScript
         1. Vue.js
 2. Backend
 
-1.Frontend//결과
+1.Frontend
     1. HTML
     2. CSS
     3. JavaScript
