@@ -55,6 +55,8 @@
         1. Vue.js
 2. Backend
 
+
+
 1.Frontend
     1. HTML
     2. CSS
@@ -97,9 +99,9 @@ function square(n) {
 링크(Links)
 HTML의 하이퍼링크와 같은 링크는 다음과 같이 작성합니다. title은 생략이 가능합니다.
 
-[example](http://example.com "title")
+"[example](http://example.com "title")"
 
-검색엔진은 [구글](https://www.google.com "구글")을 사용합니다.
+검색엔진은 "[구글](https://www.google.com "구글")"을 사용합니다.
 example
 
 검색엔진은 구글을 사용합니다.
@@ -109,17 +111,17 @@ example
 
 
 강조(Emphasis)
-HTML의 <em>과 같은 동작을 하는 강조는 *, _가 있고 <strong>은 **와 __를 사용합니다. 취소선은 ~~을 사용합니다.
+HTML의 <em>과 같은 동작을 하는 강조는 *, _가 있고 "<strong>"은 **와 __를 사용합니다. 취소선은 ~~을 사용합니다.
 
-*강조*한 텍스트
-_강조_한 텍스트
-
-
-**강조**한 텍스트
-__강조__한 텍스트
+"*강조*한 텍스트"
+"_강조_한 텍스트"
 
 
-~~취소~~한 텍스트
+"**강조**한 텍스트"
+"__강조__한 텍스트"
+
+
+"~~취소~~한 텍스트"
 
 
 
@@ -127,11 +129,12 @@ __강조__한 텍스트
 
 
 이미지 삽입(Images)
-이미지는 역시 HTML의 <img>태그와 동일하게 작동합니다. 대체 택스트를 삽입할 수 있으며, 링크 또는 로컬의 이미지파일을 연결할 수 있습니다.
+이미지는 역시 HTML의 "<img>"태그와 동일하게 작동합니다. 대체 택스트를 삽입할 수 있으며, 링크 또는 로컬의 이미지파일을 연결할 수 있습니다.
 
-![대체 텍스트](/경로/example.jpg)
-![대체 텍스트](링크)
-![Github](./public/img/3/github.png)
+"![대체 텍스트](/경로/example.jpg)"
+"![대체 텍스트](링크)"
+"![Github](./public/img/3/github.png)"
 Github
 
+"![Github](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)"
 ![Github](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
