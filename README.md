@@ -44,10 +44,11 @@
 순서가 있는 리스트(Ordered List)
 
 
-
-\1. HTML
-\2. CSS
-\3. JavaScript
+/*
+1. HTML
+2. CSS
+3. JavaScript
+*/
 //코드
 
 
@@ -59,9 +60,9 @@
 
 
 
-\1. HTML
-\1. CSS
-\1. JavaScript
+1. HTML
+1. CSS
+1. JavaScript
 
 
 
