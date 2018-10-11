@@ -36,15 +36,15 @@
 2. CSS
 3. JavaScript
 
-1.HTML//결과
+1.HTML
 2.CSS
 3.JavaScript
 
-1. HTML//코드
+1. HTML
 1. CSS
 1. JavaScript
 
-1.HTML//결과
+1.HTML
 2.CSS
 3.JavaScript
 
