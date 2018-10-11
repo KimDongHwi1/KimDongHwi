@@ -13,10 +13,10 @@
 2.인용(Blockquotes)
 인용은 >를 넣어서 작성합니다.
 
-//
+
 > 인용문구 입니다.
 >> 두번째 인용 문구 입니다.
-//
+
 
 
 3.리스트
@@ -24,6 +24,7 @@
 * 첫 번째//코드
     * 두 번째
       * 세 번째
+      
       
 ●첫 번째//결과
     ○두 번째
@@ -36,19 +37,19 @@
 1. HTML
 2. CSS
 3. JavaScript
-
+//코드
 1.HTML
 2.CSS
 3.JavaScript
-
+//결과
 1. HTML
 1. CSS
 1. JavaScript
-
+//코드
 1.HTML
 2.CSS
 3.JavaScript
-
+//결과
 1. Frontend
     1. HTML
     2. CSS
@@ -56,7 +57,7 @@
         1. Vue.js
 2. Backend
 
-
+//코드
 
 1.Frontend
     1. HTML
@@ -65,7 +66,7 @@
         1. Vue.js
 2. Backend
 
-
+//결과
 
 수평선(Horizontal Rules)
 문단과 문단 사이를 나눌 때 등 사용되는 수평선은 HTML의 <hr />과 같이 동작합니다.
@@ -119,5 +120,5 @@ HTML의 <em>과 같은 동작을 하는 강조는 *, _가 있고 "<strong>"은 *
 "![Github](./public/img/3/github.png)"
 Github
 
-"![Github](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)"
-![Github](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+"![Github](http://cfs7.tistory.com/upload_control/download.blog?fhandle=YmxvZzgyMzM1QGZzNy50aXN0b3J5LmNvbTovYXR0YWNoLzAvMDYwMDAwMDAwMDAwLmpwZw%3D%3D)"
+
