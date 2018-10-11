@@ -42,9 +42,12 @@
 
 3-2
 순서가 있는 리스트(Ordered List)
-1. HTML
-2. CSS
-3. JavaScript
+
+
+
+\1. HTML
+\2. CSS
+\3. JavaScript
 //코드
 
 
@@ -56,9 +59,9 @@
 
 
 
-1. HTML
-1. CSS
-1. JavaScript
+\1. HTML
+\1. CSS
+\1. JavaScript
 
 
 
@@ -74,14 +77,14 @@
 
 //결과
 
-
+\
 1. Frontend
     1. HTML
     2. CSS
     3. JavaScript
         1. Vue.js
 2. Backend
-
+\
 
 //
 
@@ -114,13 +117,14 @@
 링크(Links)
 HTML의 하이퍼링크와 같은 링크는 다음과 같이 작성합니다. title은 생략이 가능합니다.
 
-/*[example](http://example.com "title")*/
+\[example](http://example.com "title")
 
-검색엔진은 "[구글](https://www.google.com "구글")"을 사용합니다.
+검색엔진은 "[구글]\(https://www.google.com "구글")"을 사용합니다.
 example
 
 검색엔진은 구글을 사용합니다.
 
+[구글](https://www.google.com "구글")
 
 ---------------------------------------
 
