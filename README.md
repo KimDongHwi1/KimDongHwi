@@ -149,10 +149,30 @@ HTML의 <em>과 같은 동작을 하는 강조는 *, _가 있고 "강한표현"�
 이미지 삽입(Images)
 이미지는 역시 HTML의 "<img>"태그와 동일하게 작동합니다. 대체 택스트를 삽입할 수 있으며, 링크 또는 로컬의 이미지파일을 연결할 수 있습니다.
 
-"![대체 텍스트](/경로/example.jpg)"
-"![대체 텍스트](링크)"
-"![Github](./public/img/3/github.png)"
+"![대체 텍스트]\(/경로/example.jpg)"
+
+
+
+"![대체 텍스트]\(링크)"
+
+
+
+"![Github]\(./public/img/3/github.png)"
+
+
+
 Github
 
+
+
+
+"![Github]\(http://cfs7.tistory.com/upload_control/download.blog?fhandle=YmxvZzgyMzM1QGZzNy50aXN0b3J5LmNvbTovYXR0YWNoLzAvMDYwMDAwMDAwMDAwLmpwZw%3D%3D)"의 결과값은 아래에 
+
+
+
+
+
+
 "![Github](http://cfs7.tistory.com/upload_control/download.blog?fhandle=YmxvZzgyMzM1QGZzNy50aXN0b3J5LmNvbTovYXR0YWNoLzAvMDYwMDAwMDAwMDAwLmpwZw%3D%3D)"
+
 
