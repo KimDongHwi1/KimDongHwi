@@ -66,23 +66,6 @@
 
 
 
-코드블럭(Code blocks)
-코드블럭은 일반 문장 사이에 단어, 짧은 문장 단위로 표현할 수 있는 방법과 여러줄의 코드를 삽입하는 방법이 있습니다.
-
-단어, 한 줄의 코드를 감싸는 경우 `를 앞뒤로 감쌉니다.
-
-마크다운은 코드블럭을 `<pre>`와 `<code>`로 감쌉니다.
-마크다운은 코드블럭을 <pre>와 <code>로 감쌉니다.
-
-여러줄의 코드를 나타내는 코드블럭의 경우 코드블럭의 시작과 끝을 ```으로 감싸고 내부에 코드를 작성하면 됩니다.
-
-function square(n) {
-  return n * n;
-}
-
-
-
-
 수평선(Horizontal Rules)
 문단과 문단 사이를 나눌 때 등 사용되는 수평선은 HTML의 <hr />과 같이 동작합니다.
 
@@ -95,11 +78,10 @@ function square(n) {
 
 
 
-
 링크(Links)
 HTML의 하이퍼링크와 같은 링크는 다음과 같이 작성합니다. title은 생략이 가능합니다.
 
-"[example](http://example.com "title")"
+/*[example](http://example.com "title")*/
 
 검색엔진은 "[구글](https://www.google.com "구글")"을 사용합니다.
 example
